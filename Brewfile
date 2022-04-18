@@ -1,0 +1,23 @@
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+
+brew "bat"
+brew "exa"
+brew "peco"
+brew "ffmpeg"
+brew "git"
+brew "kotlin"
+brew "ktlint"
+brew "scrcpy"
+brew "starship"
+
+cask "font-jetbrains-mono-nerd-font"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "iterm2"
+cask "bitwarden"
+cask "slack"
+cask "notion"
+cask "dropbox"
+cask "zoom"
+
