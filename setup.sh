@@ -46,3 +46,6 @@ check JOB/setup_vim.sh
 header "Zsh"
 check JOB/setup_zsh.sh
 
+header "Other"
+check JOB/setup_other.sh
+
